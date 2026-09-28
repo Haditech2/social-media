@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect",
+  "description": "Discover what's happening around campus. University event discovery, location-based social platform, communities, registrations, and interactive campus map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
